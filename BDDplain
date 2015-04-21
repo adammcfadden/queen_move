@@ -1,0 +1,7 @@
+Make sure that false is returned is queen cannot attack
+
+If space is vertical from queen, then queen can attack
+
+If space is horizontal from queen, then queen can attack
+
+If space is diagonal from queen, then queen can attack
